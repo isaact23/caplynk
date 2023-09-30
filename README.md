@@ -1,3 +1,3 @@
-# Halloween 2023  
+# Capybara Controller
 
-Brought to you by Isaac Thompson, Sophia Thompson and Andy Thompson  
+Controller for Halloween 2023 project
