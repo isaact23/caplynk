@@ -4,9 +4,7 @@ function SystemStatus() {
     <div className="w3-card-4 w3-margin w3-padding-large w3-round-large w3-brown">
       <h3 className="w3-center">System Status</h3>
       <div className="w3-bar">
-        <div className="w3-bar-item">
-          <img src="icons/x_icon.png" alt="status icon" style={{maxWidth: "30px"}}></img>
-        </div>
+        <img src="icons/x_icon.png" className="w3-bar-item" alt="status icon" style={{maxWidth: "70px"}}></img>
         <div className="w3-bar-item">
           <h4>esp32 servo</h4>
         </div>
