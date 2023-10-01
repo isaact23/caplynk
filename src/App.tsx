@@ -1,11 +1,11 @@
 import Navbar from "./Navigation/Navbar";
-import PanelContainer from "./Panels/PanelContainer";
+import Grid from "./Grid/Grid";
 
 function App() {
   return (
     <>
       <Navbar />
-      <PanelContainer />
+      <Grid />
     </>
   );
 }
