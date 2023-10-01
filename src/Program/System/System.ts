@@ -1,16 +1,16 @@
-import ISystem from "./ISystem";
+import { ISystem } from "./ISystem";
 
 /**
  * One system managed by caplynk.
  */
-export default class System implements ISystem {
+export class System implements ISystem {
 
   private _isActive: boolean = false;
 
   constructor(
     public readonly name: string
   ) {
-
+    
   }
 
   /**
