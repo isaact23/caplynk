@@ -6,6 +6,12 @@ function SystemStatus() {
       <div className="w3-bar">
         <img src="icons/x_icon.png" className="w3-bar-item" alt="status icon" style={{maxWidth: "70px"}}></img>
         <div className="w3-bar-item">
+          <h4>Full System</h4>
+        </div>
+      </div>
+      <div className="w3-bar">
+        <img src="icons/x_icon.png" className="w3-bar-item" alt="status icon" style={{maxWidth: "70px"}}></img>
+        <div className="w3-bar-item">
           <h4>esp32 servo</h4>
         </div>
       </div>
